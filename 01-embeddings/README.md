@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ### 4. Run
 
 ```bash
-python app.py
+python 01_basic_agent.py
 ```
 
 ---
