@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+
+# macOS
+.DS_Store
+
+# Database (optional)
+# Comment the next line if you want to include the sample database
+# employees.db

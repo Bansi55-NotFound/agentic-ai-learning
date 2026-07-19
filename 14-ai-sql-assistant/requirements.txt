@@ -1,0 +1,14 @@
+# LangChain
+langchain
+langchain-community
+langchain-core
+langchain-groq
+
+# Database
+sqlalchemy
+
+# UI
+streamlit
+
+# Environment Variables
+python-dotenv
